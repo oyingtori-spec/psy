@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+opencv-python-headless
+numpy
+scikit-image
+ezdxf
+streamlit-drawable-canvas
+Pillow
